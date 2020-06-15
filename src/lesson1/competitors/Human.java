@@ -25,6 +25,7 @@ public class Human implements RunJump,Competitors{
         System.out.printf("%s прыгает\n", name);
     }
 
+
     @Override
     public void jump(int height) {
         if (height<=maxJump){

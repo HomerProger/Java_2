@@ -28,6 +28,7 @@ public class Robot implements RunJump,Competitors{
         System.out.printf("%s %s прыгает\n", type,name);
     }
 
+
     @Override
     public void jump(int height) {
         if (height<=maxJump){

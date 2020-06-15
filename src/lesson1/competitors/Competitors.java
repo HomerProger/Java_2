@@ -4,4 +4,5 @@ public interface Competitors {
 void jump(int height);
 void run(int dist);
 
+
 }

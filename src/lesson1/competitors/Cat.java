@@ -1,5 +1,6 @@
 package lesson1.competitors;
 
+
 public class Cat implements RunJump,Competitors {
     private String type;
     private String name;

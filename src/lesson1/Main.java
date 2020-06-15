@@ -1,5 +1,6 @@
 package lesson1;
 
+
 import lesson1.competitors.Cat;
 import lesson1.competitors.Competitors;
 import lesson1.competitors.Human;
